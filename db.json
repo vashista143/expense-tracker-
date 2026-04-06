@@ -1,0 +1,669 @@
+{
+  "transactions": [
+    {
+      "id": "1",
+      "title": "Salary",
+      "amount": 50000,
+      "type": "income",
+      "category": "Job",
+      "date": "2026-04-01"
+    },
+    {
+      "id": "2",
+      "title": "Groceries",
+      "amount": 1200,
+      "type": "expense",
+      "category": "Food",
+      "date": "2026-04-02"
+    },
+    {
+      "id": "3",
+      "title": "Freelance",
+      "amount": 8000,
+      "type": "income",
+      "category": "Side Hustle",
+      "date": "2026-03-03"
+    },
+    {
+      "id": "4",
+      "title": "Rent",
+      "amount": 15000,
+      "type": "expense",
+      "category": "Housing",
+      "date": "2026-04-04"
+    },
+    {
+      "id": "5",
+      "title": "Movie",
+      "amount": 500,
+      "type": "expense",
+      "category": "Entertainment",
+      "date": "2026-04-05"
+    },
+    {
+      "id": "6",
+      "title": "Electricity Bill",
+      "amount": 2000,
+      "type": "expense",
+      "category": "Bills",
+      "date": "2026-04-06"
+    },
+    {
+      "id": "7",
+      "title": "Stock Profit",
+      "amount": 3000,
+      "type": "income",
+      "category": "Investment",
+      "date": "2026-04-07"
+    },
+    {
+      "id": "8",
+      "title": "Shopping",
+      "amount": 2500,
+      "type": "expense",
+      "category": "Shopping",
+      "date": "2026-04-08"
+    },
+    {
+      "id": "9",
+      "title": "Gym Membership",
+      "amount": 1000,
+      "type": "expense",
+      "category": "Health",
+      "date": "2026-04-09"
+    },
+    {
+      "id": "10",
+      "title": "Bonus",
+      "amount": 7000,
+      "type": "income",
+      "category": "Job",
+      "date": "2026-04-10"
+    },
+    {
+      "id": "11",
+      "title": "Movie",
+      "amount": 500,
+      "type": "expense",
+      "category": "Entertainment",
+      "date": "2026-03-05"
+    },
+    {
+      "id": "12",
+      "title": "Electricity Bill",
+      "amount": 2000,
+      "type": "expense",
+      "category": "Bills",
+      "date": "2026-03-06"
+    },
+    {
+      "id": "13",
+      "title": "Stock Profit",
+      "amount": 3000,
+      "type": "income",
+      "category": "Investment",
+      "date": "2026-03-07"
+    },
+    {
+      "id": "14",
+      "title": "Shopping",
+      "amount": 2500,
+      "type": "expense",
+      "category": "Shopping",
+      "date": "2026-03-08"
+    },
+    {
+      "id": "15",
+      "title": "Gym Membership",
+      "amount": 1000,
+      "type": "expense",
+      "category": "Health",
+      "date": "2026-03-09"
+    },
+    {
+      "id": "16",
+      "title": "Bonus",
+      "amount": 7000,
+      "type": "income",
+      "category": "Job",
+      "date": "2026-03-10"
+    },
+    {
+      "id": "17",
+      "title": "Salary",
+      "amount": 50000,
+      "type": "income",
+      "category": "Job",
+      "date": "2026-03-01"
+    },
+    {
+      "id": "18",
+      "title": "Groceries",
+      "amount": 1300,
+      "type": "expense",
+      "category": "Food",
+      "date": "2026-03-02"
+    },
+    {
+      "id": "19",
+      "title": "Freelance",
+      "amount": 7000,
+      "type": "income",
+      "category": "Side Hustle",
+      "date": "2026-03-03"
+    },
+    {
+      "id": "20",
+      "title": "Rent",
+      "amount": 15000,
+      "type": "expense",
+      "category": "Housing",
+      "date": "2026-03-04"
+    },
+    {
+      "id": "21",
+      "title": "Movie",
+      "amount": 600,
+      "type": "expense",
+      "category": "Entertainment",
+      "date": "2026-03-05"
+    },
+    {
+      "id": "22",
+      "title": "Electricity Bill",
+      "amount": 1800,
+      "type": "expense",
+      "category": "Bills",
+      "date": "2026-03-06"
+    },
+    {
+      "id": "23",
+      "title": "Stock Profit",
+      "amount": 2500,
+      "type": "income",
+      "category": "Investment",
+      "date": "2026-03-07"
+    },
+    {
+      "id": "24",
+      "title": "Shopping",
+      "amount": 2200,
+      "type": "expense",
+      "category": "Shopping",
+      "date": "2026-03-08"
+    },
+    {
+      "id": "25",
+      "title": "Gym Membership",
+      "amount": 1000,
+      "type": "expense",
+      "category": "Health",
+      "date": "2026-03-09"
+    },
+    {
+      "id": "26",
+      "title": "Salary",
+      "amount": 50000,
+      "type": "income",
+      "category": "Job",
+      "date": "2026-02-01"
+    },
+    {
+      "id": "27",
+      "title": "Groceries",
+      "amount": 1100,
+      "type": "expense",
+      "category": "Food",
+      "date": "2026-02-02"
+    },
+    {
+      "id": "28",
+      "title": "Freelance",
+      "amount": 6000,
+      "type": "income",
+      "category": "Side Hustle",
+      "date": "2026-02-03"
+    },
+    {
+      "id": "29",
+      "title": "Rent",
+      "amount": 15000,
+      "type": "expense",
+      "category": "Housing",
+      "date": "2026-02-04"
+    },
+    {
+      "id": "30",
+      "title": "Movie",
+      "amount": 400,
+      "type": "expense",
+      "category": "Entertainment",
+      "date": "2026-02-05"
+    },
+    {
+      "id": "31",
+      "title": "Electricity Bill",
+      "amount": 1700,
+      "type": "expense",
+      "category": "Bills",
+      "date": "2026-02-06"
+    },
+    {
+      "id": "32",
+      "title": "Stock Profit",
+      "amount": 2000,
+      "type": "income",
+      "category": "Investment",
+      "date": "2026-02-07"
+    },
+    {
+      "id": "33",
+      "title": "Shopping",
+      "amount": 2000,
+      "type": "expense",
+      "category": "Shopping",
+      "date": "2026-02-08"
+    },
+    {
+      "id": "34",
+      "title": "Gym Membership",
+      "amount": 1000,
+      "type": "expense",
+      "category": "Health",
+      "date": "2026-02-09"
+    },
+    {
+      "id": "35",
+      "title": "Salary",
+      "amount": 50000,
+      "type": "income",
+      "category": "Job",
+      "date": "2026-01-01"
+    },
+    {
+      "id": "36",
+      "title": "Groceries",
+      "amount": 1000,
+      "type": "expense",
+      "category": "Food",
+      "date": "2026-01-02"
+    },
+    {
+      "id": "37",
+      "title": "Freelance",
+      "amount": 5500,
+      "type": "income",
+      "category": "Side Hustle",
+      "date": "2026-01-03"
+    },
+    {
+      "id": "38",
+      "title": "Rent",
+      "amount": 15000,
+      "type": "expense",
+      "category": "Housing",
+      "date": "2026-01-04"
+    },
+    {
+      "id": "39",
+      "title": "Movie",
+      "amount": 450,
+      "type": "expense",
+      "category": "Entertainment",
+      "date": "2026-01-05"
+    },
+    {
+      "id": "40",
+      "title": "Electricity Bill",
+      "amount": 1600,
+      "type": "expense",
+      "category": "Bills",
+      "date": "2026-01-06"
+    },
+    {
+      "id": "41",
+      "title": "Stock Profit",
+      "amount": 1800,
+      "type": "income",
+      "category": "Investment",
+      "date": "2026-01-07"
+    },
+    {
+      "id": "42",
+      "title": "Shopping",
+      "amount": 1800,
+      "type": "expense",
+      "category": "Shopping",
+      "date": "2026-01-08"
+    },
+    {
+      "id": "43",
+      "title": "Gym Membership",
+      "amount": 1000,
+      "type": "expense",
+      "category": "Health",
+      "date": "2026-01-09"
+    },
+    {
+      "id": "101",
+      "title": "Salary",
+      "amount": 48000,
+      "type": "income",
+      "category": "Job",
+      "date": "2025-01-01"
+    },
+    {
+      "id": "102",
+      "title": "Groceries",
+      "amount": 1500,
+      "type": "expense",
+      "category": "Food",
+      "date": "2025-01-05"
+    },
+    {
+      "id": "103",
+      "title": "Rent",
+      "amount": 14000,
+      "type": "expense",
+      "category": "Housing",
+      "date": "2025-01-03"
+    },
+    {
+      "id": "104",
+      "title": "Freelance",
+      "amount": 6000,
+      "type": "income",
+      "category": "Side Hustle",
+      "date": "2025-02-10"
+    },
+    {
+      "id": "105",
+      "title": "Electricity Bill",
+      "amount": 1800,
+      "type": "expense",
+      "category": "Bills",
+      "date": "2025-02-06"
+    },
+    {
+      "id": "106",
+      "title": "Shopping",
+      "amount": 2200,
+      "type": "expense",
+      "category": "Shopping",
+      "date": "2025-02-12"
+    },
+    {
+      "id": "107",
+      "title": "Salary",
+      "amount": 48000,
+      "type": "income",
+      "category": "Job",
+      "date": "2025-03-01"
+    },
+    {
+      "id": "108",
+      "title": "Gym Membership",
+      "amount": 1200,
+      "type": "expense",
+      "category": "Health",
+      "date": "2025-03-08"
+    },
+    {
+      "id": "109",
+      "title": "Movie",
+      "amount": 600,
+      "type": "expense",
+      "category": "Entertainment",
+      "date": "2025-03-14"
+    },
+    {
+      "id": "110",
+      "title": "Stock Profit",
+      "amount": 3500,
+      "type": "income",
+      "category": "Investment",
+      "date": "2025-04-09"
+    },
+    {
+      "id": "111",
+      "title": "Groceries",
+      "amount": 1300,
+      "type": "expense",
+      "category": "Food",
+      "date": "2025-04-11"
+    },
+    {
+      "id": "112",
+      "title": "Rent",
+      "amount": 14000,
+      "type": "expense",
+      "category": "Housing",
+      "date": "2025-04-03"
+    },
+    {
+      "id": "113",
+      "title": "Bonus",
+      "amount": 6000,
+      "type": "income",
+      "category": "Job",
+      "date": "2025-05-20"
+    },
+    {
+      "id": "114",
+      "title": "Shopping",
+      "amount": 2600,
+      "type": "expense",
+      "category": "Shopping",
+      "date": "2025-05-18"
+    },
+    {
+      "id": "115",
+      "title": "Electricity Bill",
+      "amount": 2100,
+      "type": "expense",
+      "category": "Bills",
+      "date": "2025-05-07"
+    },
+    {
+      "id": "116",
+      "title": "Salary",
+      "amount": 48000,
+      "type": "income",
+      "category": "Job",
+      "date": "2025-06-01"
+    },
+    {
+      "id": "117",
+      "title": "Transport",
+      "amount": 900,
+      "type": "expense",
+      "category": "Transport",
+      "date": "2025-06-10"
+    },
+    {
+      "id": "118",
+      "title": "Dining Out",
+      "amount": 1700,
+      "type": "expense",
+      "category": "Food",
+      "date": "2025-06-15"
+    },
+    {
+      "id": "119",
+      "title": "Freelance",
+      "amount": 7000,
+      "type": "income",
+      "category": "Side Hustle",
+      "date": "2025-07-11"
+    },
+    {
+      "id": "120",
+      "title": "Movie",
+      "amount": 500,
+      "type": "expense",
+      "category": "Entertainment",
+      "date": "2025-07-13"
+    },
+    {
+      "id": "121",
+      "title": "Rent",
+      "amount": 14000,
+      "type": "expense",
+      "category": "Housing",
+      "date": "2025-07-03"
+    },
+    {
+      "id": "122",
+      "title": "Stock Profit",
+      "amount": 4000,
+      "type": "income",
+      "category": "Investment",
+      "date": "2025-08-09"
+    },
+    {
+      "id": "123",
+      "title": "Groceries",
+      "amount": 1600,
+      "type": "expense",
+      "category": "Food",
+      "date": "2025-08-10"
+    },
+    {
+      "id": "124",
+      "title": "Shopping",
+      "amount": 3000,
+      "type": "expense",
+      "category": "Shopping",
+      "date": "2025-08-19"
+    },
+    {
+      "id": "125",
+      "title": "Salary",
+      "amount": 48000,
+      "type": "income",
+      "category": "Job",
+      "date": "2025-09-01"
+    },
+    {
+      "id": "126",
+      "title": "Gym Membership",
+      "amount": 1200,
+      "type": "expense",
+      "category": "Health",
+      "date": "2025-09-08"
+    },
+    {
+      "id": "127",
+      "title": "Electricity Bill",
+      "amount": 1900,
+      "type": "expense",
+      "category": "Bills",
+      "date": "2025-09-06"
+    },
+    {
+      "id": "128",
+      "title": "Bonus",
+      "amount": 8000,
+      "type": "income",
+      "category": "Job",
+      "date": "2025-10-21"
+    },
+    {
+      "id": "129",
+      "title": "Dining Out",
+      "amount": 2000,
+      "type": "expense",
+      "category": "Food",
+      "date": "2025-10-14"
+    },
+    {
+      "id": "130",
+      "title": "Transport",
+      "amount": 1000,
+      "type": "expense",
+      "category": "Transport",
+      "date": "2025-10-12"
+    },
+    {
+      "id": "131",
+      "title": "Salary",
+      "amount": 48000,
+      "type": "income",
+      "category": "Job",
+      "date": "2025-11-01"
+    },
+    {
+      "id": "132",
+      "title": "Shopping",
+      "amount": 2800,
+      "type": "expense",
+      "category": "Shopping",
+      "date": "2025-11-17"
+    },
+    {
+      "id": "133",
+      "title": "Movie",
+      "amount": 700,
+      "type": "expense",
+      "category": "Entertainment",
+      "date": "2025-11-22"
+    },
+    {
+      "id": "134",
+      "title": "Freelance",
+      "amount": 9000,
+      "type": "income",
+      "category": "Side Hustle",
+      "date": "2025-12-05"
+    },
+    {
+      "id": "135",
+      "title": "Rent",
+      "amount": 14000,
+      "type": "expense",
+      "category": "Housing",
+      "date": "2025-12-03"
+    },
+    {
+      "id": "136",
+      "title": "Electricity Bill",
+      "amount": 2200,
+      "type": "expense",
+      "category": "Bills",
+      "date": "2025-12-07"
+    },
+    {
+      "title": "gym subs",
+      "amount": 1000,
+      "category": "Food",
+      "type": "expense",
+      "date": "2026-04-05",
+      "id": "xTs5e3CYJ54"
+    },
+    {
+      "title": "gym subs",
+      "amount": 1000,
+      "category": "Food",
+      "type": "expense",
+      "date": "2026-04-05",
+      "id": "MM5bgPTfOlM"
+    },
+    {
+      "title": "sal",
+      "amount": 10000,
+      "category": "Job",
+      "type": "income",
+      "date": "2026-04-05",
+      "id": "04vo4ELSAZY"
+    },
+    {
+      "title": "salary",
+      "amount": 10000,
+      "category": "Job",
+      "type": "income",
+      "date": "2026-04-05",
+      "id": "HON9CIIOIFk"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
